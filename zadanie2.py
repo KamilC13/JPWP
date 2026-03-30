@@ -1,7 +1,6 @@
 #zadanie2.py
 import sys
 
-#Lista zawierająca kwadraty liczb od 0 do 9999
 squares_list = [x**2 for x in range(10000)]
 print("Rozmiar listy w pamięci (bajty):", sys.getsizeof(squares_list))
 
