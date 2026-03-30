@@ -1,5 +1,3 @@
-#Cel: Obliczenie sumy oraz znalezienie największej wartości
-#dla sześcianów (x**3) liczb podzielnych przez 5.
 numbers = range(100_000)
 cubes_list = []
 
