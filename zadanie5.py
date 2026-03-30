@@ -1,6 +1,3 @@
-total = sum(x for x in range(1_000_000) if x % 3 == 0)
-
-print("Suma (dobrze zoptymalizowana):", total)
 def infinite_evens():
     pass
 
