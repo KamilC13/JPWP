@@ -11,4 +11,3 @@ print("Wynik z listy:", powers_of_two(5))
 #Pozbądź się tworzenia i zwracania listy 'result'.
 #Użyj słowa kluczowego 'yield', aby zwracać kolejne potęgi dwójki bezpośrednio w pętli.
 #Przypisz wywołanie funkcji do zmiennej i użyj funkcji next(), aby pobrać 3 pierwsze wartości.
----------------------------------
